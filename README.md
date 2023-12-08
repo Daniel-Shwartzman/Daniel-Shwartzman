@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Daniel Shwartzman</h1>
+  <h1 align="center">Hi 👋 I'm Daniel Shwartzman</h1>
   
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/daniel-shwartzman/">
